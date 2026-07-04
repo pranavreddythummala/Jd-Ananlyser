@@ -1,0 +1,6 @@
+langgraph
+langchain
+anthropic
+python-dotenv
+requests
+beautifulsoup4
